@@ -1,5 +1,7 @@
 {
-  "name": "splitwise",
+  "name": "splitwisest",
+  "author": "Abhishek Jha",
+  "description": "Clone of expense sharing app splitwise",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +11,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.2.9",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@tabler/icons": "^1.88.0",
+    "dayjs": "^1.11.5",
+    "framer-motion": "^6.5.1",
+    "nanoid": "^4.0.0",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.3.0"
   },
   "devDependencies": {
     "eslint": "8.22.0",
