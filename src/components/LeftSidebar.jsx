@@ -36,7 +36,7 @@ const LeftSidebar = () => {
         overflowY="-moz-hidden-unscrollable"
       >
         <NavLink link="/" label="Dashboard" currentRoute={currentRoute}>
-          <Image src="/logo.png" as="img" h={4} alt="logo" />
+          <Image src="/images/logo.png" as="img" h={4} alt="logo" />
         </NavLink>
         <NavLink
           link="/expenses"

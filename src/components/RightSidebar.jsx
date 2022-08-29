@@ -23,8 +23,8 @@ const RightSidebar = () => {
             Get the free Splitwise app and add IOUs from anywhere
           </Text>
         </VStack>
-        <Image src="/applestore.png" h={14} alt="apple store" />
-        <Image src="/androidstore.png" h={14} alt="android store" />
+        <Image src="/images/applestore.png" h={14} alt="apple store" />
+        <Image src="/images/androidstore.png" h={14} alt="android store" />
       </Flex>
     </>
   );

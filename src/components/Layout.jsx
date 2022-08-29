@@ -9,7 +9,7 @@ const Layout = ({ title, children }) => {
   return (
     <>
       <Head>
-        <link rel="icon" type="image/png" href="/logo.png" />
+        <link rel="icon" type="image/png" href="/images/logo.png" />
         <title>{title}</title>
       </Head>
       <header>

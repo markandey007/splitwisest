@@ -43,7 +43,7 @@ const Navbar = () => {
         <Flex width="65vw" alignItems="center" justifyContent="space-between">
           <Link href="/">
             <HStack spacing={4} cursor="pointer">
-              <Image src="/logo.png" as="img" h={5} alt="logo" />
+              <Image src="/images/logo.png" as="img" h={5} alt="logo" />
               <Text color="white" fontWeight="bold" fontSize="lg">
                 Splitwisest
               </Text>

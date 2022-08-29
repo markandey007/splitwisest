@@ -74,6 +74,7 @@ else:
 - [dayjs](https://www.npmjs.com/package/dayjs) for displaying dates in pretty format
 - [nanoid](https://www.npmjs.com/package/nanoid) for generating unique IDs for each expense object
 - [react hot toast](https://www.npmjs.com/package/react-hot-toast) for displaying notification alerts
+- [dicebar avatars api](https://avatars.dicebear.com/) for generating random avatars for users
 
 
 <br/>
