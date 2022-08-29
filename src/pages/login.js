@@ -31,7 +31,7 @@ export default function Login() {
   return (
     <>
       <Head>
-        <link rel="icon" type="image/png" href="/logo.png" />
+        <link rel="icon" type="image/png" href="/images/logo.png" />
         <title>Login - Splitwisest</title>
       </Head>
       <main>

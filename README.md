@@ -120,12 +120,12 @@ While checking the <b>owed by loggedInUser</b> from the expense
 
 1> Clone this github repository 
 ```git
-git clone
+git clone https://github.com/abhijhacodes/splitwisest.git
 ```
 
 2> Move to the project folder 
-```bash
-cd splitwise
+```node
+cd splitwisest
 ```
 
 3> Install all dependencies 
