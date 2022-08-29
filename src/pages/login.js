@@ -39,7 +39,7 @@ export default function Login() {
           <Stack spacing={8} mx={"auto"} maxW={"xl"} py={12} px={6}>
             <Stack align={"center"}>
               <Heading fontSize={"4xl"} color="blue.600">
-                Login to Splitwise 🚀
+                Login to Splitwisest 🚀
               </Heading>
               <Text fontSize={"lg"} color="white" fontWeight="bold">
                 This is just to keep track of your expenses

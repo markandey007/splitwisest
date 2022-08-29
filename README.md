@@ -1,6 +1,6 @@
 ## Splitwise clone (Frontend)
 
-### See this project live [here]()
+### See this project live [here](https://splitwisest.vercel.app/)
 
 
 ### data format:
@@ -78,31 +78,6 @@ else:
 
 <br/>
 
-### Steps to run locally:
-1> Clone this github repository 
-```git
-git clone
-```
-
-2> Move to the project folder 
-```bash
-cd splitwise
-```
-
-3> Install all dependencies 
-```node
-npm install
-```
-
-4> Run development server 
-```node
-npm run dev
-```
-
-5> Go to `localhost:3000` in your browser 
-
-<br/>
-
 ### Features done:
 
 - [x] Create a new expense
@@ -136,3 +111,30 @@ While checking the <b>owed by loggedInUser</b> from the expense
   - Using an actual database, we can fetch expenses split with a particular user, instead of getting all
   - Filtering in the UI after page load by calling a function (But it will lead to memory leak)
 - So in this scenario this approach seemed to be more feasible.
+
+<br/>
+
+
+### Steps to run locally:
+
+1> Clone this github repository 
+```git
+git clone
+```
+
+2> Move to the project folder 
+```bash
+cd splitwise
+```
+
+3> Install all dependencies 
+```node
+npm install
+```
+
+4> Run development server 
+```node
+npm run dev
+```
+
+5> Go to `localhost:3000` in your browser 
